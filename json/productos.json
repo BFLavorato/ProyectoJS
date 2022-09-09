@@ -1,0 +1,58 @@
+[
+    {
+    "id":1,
+    "nombre":"Guantes de boxeo",
+    "precio":7000,
+    "stock":12,
+    "img":"guantes.jpg"
+},
+{   
+    "id":2,
+    "nombre":"Botas de boxeo",
+    "precio":12200,
+    "stock":4,
+    "img":"botas.jpg"
+},
+{
+    "id":3,
+    "nombre":"Inguinal",
+    "precio":2300,
+    "stock":7,
+    "img":"inguinal.jpg"
+},
+{
+    "id":4,
+    "nombre":"Cabezal",
+    "precio":2850,
+    "stock":9,
+    "img":"cabezal.jpg"
+},
+{
+    "id":5,
+    "nombre":"Soga",
+    "precio":890,
+    "stock":17,
+    "img":"soga.jpg"
+},
+{
+    "id":6,
+    "nombre":"Vendas",
+    "precio":400,
+    "stock":30,
+    "img":"vendas.jpg"
+},
+{
+    "id":7,
+    "nombre":"Bucal",
+    "precio":800,
+    "stock":20,
+    "img":"bucal.jpg"
+},
+{
+    "id":8,
+    "nombre":"Short boxeo",
+    "precio":4500,
+    "stock":10,
+    "img":"short.jpg"
+}
+]
